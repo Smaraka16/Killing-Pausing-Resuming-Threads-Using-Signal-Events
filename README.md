@@ -1,2 +1,2 @@
-# ELEGANT-WAY-TO-KILL-THREADS-USING-SIGNAL-EVENT 
+# Elegant way to kill thread using thread signal events 
  
